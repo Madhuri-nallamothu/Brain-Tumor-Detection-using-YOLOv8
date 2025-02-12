@@ -1,5 +1,5 @@
 # Brain Tumor Detection using YOLOv8
-In this project we have used different sizes of the YOLOv8 model to detect ansd classsify brain tumor in the MRI images<br>
+In this project we have used different sizes of the YOLOv8 model to detect and classsify brain tumor in the MRI images<br>
 ---
 
 **Check out paper publication [here](https://ieeexplore.ieee.org/abstract/document/10626992)**
